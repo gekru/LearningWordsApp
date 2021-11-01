@@ -1,0 +1,52 @@
+[
+  {
+    "Original": "Dog",
+    "Translated": "Собака",
+    "Memorized": false
+  },
+  {
+    "Original": "Cat",
+    "Translated": "Кот",
+    "Memorized": false
+  },
+  {
+    "Original": "Deer",
+    "Translated": "Олень",
+    "Memorized": false
+  },
+  {
+    "Original": "Fox",
+    "Translated": "Лиса",
+    "Memorized": false
+  },
+  {
+    "Original": "Hare",
+    "Translated": "Заяц",
+    "Memorized": false
+  },
+  {
+    "Original": "Hedgehog",
+    "Translated": "Еж",
+    "Memorized": false
+  },
+  {
+    "Original": "Mole",
+    "Translated": "Крот",
+    "Memorized": false
+  },
+  {
+    "Original": "Mouse",
+    "Translated": "Мышь",
+    "Memorized": false
+  },
+  {
+    "Original": "Otter",
+    "Translated": "Выдра",
+    "Memorized": false
+  },
+  {
+    "Original": "Bat",
+    "Translated": "Летучая мышь",
+    "Memorized": false
+  }
+]
